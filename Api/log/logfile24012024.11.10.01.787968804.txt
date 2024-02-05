@@ -1,0 +1,34 @@
+2024/01/24 11:10:01 ValidToken (+)
+2024/01/24 11:10:01 ValidToken -
+2024/01/24 11:10:01 AccessDetail (+)
+2024/01/24 11:10:01 DecodeToString(+)
+2024/01/24 11:10:01 DecodeToString(-)
+2024/01/24 11:10:01 AccessDetail (-)
+2024/01/24 11:10:01 GetBseActiveIpos (+)
+2024/01/24 11:10:01 GetBseActiveIpos (-)
+2024/01/24 11:10:01 lIpoDataArr := [{USER  EQUITY}]
+2024/01/24 11:10:01 IpoMktCatwise...(+)
+2024/01/24 11:10:01 https://uat.bseindia.in/ibbsmsgapi/iBBSWebBroadcastApi.svc/v1/biddata endpoint
+2024/01/24 11:10:01 ExchangeMktCatwise....(+)
+2024/01/24 11:10:01 pCredential {6524 6525 FtCxel7N@ T0G2S1K8BF}
+2024/01/24 11:10:01 lHeaderArr [{Content-Type application/json} {User-Agent Flattrade-golang} {Membercode 6524} {Login 6525} {Token }]
+2024/01/24 11:10:01 pIpoDetails {"symbol":"USER","flag":"B","issueType":"EQUITY"}
+2024/01/24 11:10:01 Api_call+
+2024/01/24 11:10:01 InsertLog (+)
+2024/01/24 11:10:01 InsertLog (-)
+2024/01/24 11:10:01 JsonData:  {"symbol":"USER","flag":"B","issueType":"EQUITY"}
+2024/01/24 11:10:02 InsertLog (+)
+2024/01/24 11:10:02 InsertLog (-)
+2024/01/24 11:10:02 Error: <nil>
+2024/01/24 11:10:02 Api_call-
+2024/01/24 11:10:02 lResp [{"errorcode":"97","message":"Token Invalid"}]
+2024/01/24 11:10:02 lIpoRespRec [{     97 Token Invalid}]
+2024/01/24 11:10:02 ExchangeMktCatwise....(-)
+2024/01/24 11:10:02 IpoMktCatwise...(-)
+2024/01/24 11:10:02 lMKtcatwise [{     97 Token Invalid}]
+2024/01/24 11:10:02 Today 11:10:02
+2024/01/24 11:10:02 GetAllowOrigin (+)
+2024/01/24 11:10:02 GetAllowOrigin (-)
+2024/01/24 11:10:02 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/24 11:10:02 common.ABHIAppName novodev
+2024/01/24 11:10:02 common.ABHIDomain localhost

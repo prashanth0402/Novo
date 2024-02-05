@@ -1,0 +1,8 @@
+KeyWords  = "RBI Retail Direct - Auction Announcement Notification"
+# password name is set as loginAppKey
+loginEmail = "ncbmaster.flattrade@gmail.com"
+loginAppKey = "zfbgswhferakcbft"
+#loginEmail = "karthik2768@gmail.com"
+#loginAppKey = "ktufebpddqsipjtx"
+From = "support@rbiretaildirect.org.in"
+#From = "prashanth.s@fcsonline.co.in"

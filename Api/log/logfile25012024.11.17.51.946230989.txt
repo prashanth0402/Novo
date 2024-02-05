@@ -1,0 +1,830 @@
+2024/01/25 11:17:51 Today 11:17:51
+2024/01/25 11:17:51 GetAllowOrigin (+)
+2024/01/25 11:17:51 GetAllowOrigin (-)
+2024/01/25 11:17:51 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 11:17:51 common.ABHIAppName novodev
+2024/01/25 11:17:51 common.ABHIDomain localhost
+2024/01/25 13:06:27 START of End Point Call /getRedirectUrl 178cc0e0-48e4-468c-9979-5db05680e6cc
+2024/01/25 13:06:27 GetRequestorDetail+
+2024/01/25 13:06:27 GetHeaderDetails+
+2024/01/25 13:06:27 GetAllowOrigin (+)
+2024/01/25 13:06:27 GetAllowOrigin (-)
+2024/01/25 13:06:27 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:06:27 GetHeaderDetails-
+2024/01/25 13:06:27 GetRequestorDetail-
+2024/01/25 13:06:27 GetRedirectURL(+) GET
+2024/01/25 13:06:27 lReferrer http://localhost:8080/
+2024/01/25 13:06:27 hostParts [http localhost:8080/]
+2024/01/25 13:06:27 lHost localhost
+2024/01/25 13:06:27 getBrokerId (+)
+2024/01/25 13:06:27 Broker Id :=  4
+2024/01/25 13:06:27 getBrokerId (-)
+2024/01/25 13:06:27 lBrokerId 4
+2024/01/25 13:06:27 lRedirect succesful {localhost novodev auth.flattrade.in/?app=novodev}
+2024/01/25 13:06:27 GetRedirectURL(-) 
+2024/01/25 13:06:27 GetRequestorDetail+
+2024/01/25 13:06:27 GetHeaderDetails+
+2024/01/25 13:06:27 GetAllowOrigin (+)
+2024/01/25 13:06:27 GetAllowOrigin (-)
+2024/01/25 13:06:27 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:06:27 GetHeaderDetails-
+2024/01/25 13:06:27 GetRequestorDetail-
+2024/01/25 13:06:27 END of End Point Call /getRedirectUrl 178cc0e0-48e4-468c-9979-5db05680e6cc
+2024/01/25 13:07:07 START of End Point Call /token 4b07730b-f96e-4b3b-8e65-a14028133eb1
+2024/01/25 13:07:07 GetRequestorDetail+
+2024/01/25 13:07:07 GetHeaderDetails+
+2024/01/25 13:07:07 GetAllowOrigin (+)
+2024/01/25 13:07:07 GetAllowOrigin (-)
+2024/01/25 13:07:07 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:07 GetHeaderDetails-
+2024/01/25 13:07:07 GetRequestorDetail-
+2024/01/25 13:07:07 origin http://localhost:8080
+2024/01/25 13:07:07 allowedOrigin == origin https://novo.flattrade.in http://localhost:8080
+2024/01/25 13:07:07 allowedOrigin == origin http://localhost:8080 http://localhost:8080
+2024/01/25 13:07:07 getBrokerId (+)
+2024/01/25 13:07:07 Broker Id :=  4
+2024/01/25 13:07:07 getBrokerId (-)
+2024/01/25 13:07:07 <nil> http://localhost:8080
+2024/01/25 13:07:07 GetRequestorDetail+
+2024/01/25 13:07:07 GetHeaderDetails+
+2024/01/25 13:07:07 GetAllowOrigin (+)
+2024/01/25 13:07:07 GetAllowOrigin (-)
+2024/01/25 13:07:07 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:07 GetHeaderDetails-
+2024/01/25 13:07:07 GetRequestorDetail-
+2024/01/25 13:07:07 ValidateAbhiPageHSToken(+) GET
+2024/01/25 13:07:07 ValidateLoginForEmail (+)
+2024/01/25 13:07:07 DecodeToString(+)
+2024/01/25 13:07:07 DecodeToString(-)
+2024/01/25 13:07:07 EncodeToSHA256 (+)
+2024/01/25 13:07:07 EncodeToSHA256 (-)
+2024/01/25 13:07:07 Api_call+
+2024/01/25 13:07:07 InsertLog (+)
+2024/01/25 13:07:07 InsertLog (-)
+2024/01/25 13:07:07 JsonData:  {"app_key":"novodev","LoginId":"FT043488","token":"17ad86f63024f370.853804029023b3ddbdbf1fef893d9874d27831ae9842d838c84f8afad0bf3b53","secret_key":"f65f43db9ddfc5eda3a3fa26a9972785254b4ad50ff50ffcda478b4bd9ef3cde"}
+2024/01/25 13:07:08 InsertLog (+)
+2024/01/25 13:07:08 InsertLog (-)
+2024/01/25 13:07:08 Error: <nil>
+2024/01/25 13:07:08 Api_call-
+2024/01/25 13:07:08 ValidateLoginForEmail (-)
+2024/01/25 13:07:08 GetAppName (+)
+2024/01/25 13:07:08 lAppName novodev
+2024/01/25 13:07:08 GetAppName (-)
+2024/01/25 13:07:08 App Name:  novodev
+2024/01/25 13:07:08 GetDomainName (+)
+2024/01/25 13:07:08 lDomain localhost
+2024/01/25 13:07:08 GetDomainName (-)
+2024/01/25 13:07:08 InsertCookieDetails (+)
+2024/01/25 13:07:08 GetMemberDetailId (+)
+2024/01/25 13:07:08 GetMemberDetailId (-)
+2024/01/25 13:07:08 InsertCookieDetails (-)
+2024/01/25 13:07:08 common.ABHIFlag Y
+2024/01/25 13:07:08 setting cookie {ftab_pt 17ad86f6c6ace890.b3d9931a0d2d39a3314b68733a29fb9472f3d714fde0ac0cbf328ba89753dfd9 / localhost 0001-01-01 00:00:00 +0000 UTC  21600 false true 0  []} localhost
+2024/01/25 13:07:08 InsertToken (+)
+2024/01/25 13:07:08 InsertToken (-)
+2024/01/25 13:07:08 Insert token <nil>
+2024/01/25 13:07:08 ValidateAbhiPageHSToken(-)
+2024/01/25 13:07:08 GetRequestorDetail+
+2024/01/25 13:07:08 GetHeaderDetails+
+2024/01/25 13:07:08 GetAllowOrigin (+)
+2024/01/25 13:07:08 GetAllowOrigin (-)
+2024/01/25 13:07:08 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:08 GetHeaderDetails-
+2024/01/25 13:07:08 GetRequestorDetail-
+2024/01/25 13:07:08 END of End Point Call /token 4b07730b-f96e-4b3b-8e65-a14028133eb1
+2024/01/25 13:07:08 START of End Point Call /tokenValidation e151f183-a0a7-4a1a-907b-d7b677670750
+2024/01/25 13:07:08 GetRequestorDetail+
+2024/01/25 13:07:08 GetHeaderDetails+
+2024/01/25 13:07:08 GetAllowOrigin (+)
+2024/01/25 13:07:08 GetAllowOrigin (-)
+2024/01/25 13:07:08 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:08 GetHeaderDetails-
+2024/01/25 13:07:08 GetRequestorDetail-
+2024/01/25 13:07:08 ValidateABHIToken(+) GET
+2024/01/25 13:07:08 CheckPageTokenValidity2+
+2024/01/25 13:07:08 START of End Point Call /dashboard 3a40a4ea-91e5-4875-bf07-20d95fb58a93
+2024/01/25 13:07:08 GetRequestorDetail+
+2024/01/25 13:07:08 GetHeaderDetails+
+2024/01/25 13:07:08 GetAllowOrigin (+)
+2024/01/25 13:07:08 GetAllowOrigin (-)
+2024/01/25 13:07:08 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:08 GetHeaderDetails-
+2024/01/25 13:07:08 GetRequestorDetail-
+2024/01/25 13:07:08 GetDashboardDetail (+)
+2024/01/25 13:07:08 getBrokerId (+)
+2024/01/25 13:07:08 Broker Id :=  4
+2024/01/25 13:07:08 getBrokerId (-)
+2024/01/25 13:07:08 <nil> http://localhost:8080
+2024/01/25 13:07:08 GetDashboardDetail (-)
+2024/01/25 13:07:08 GetRequestorDetail+
+2024/01/25 13:07:08 GetHeaderDetails+
+2024/01/25 13:07:08 GetAllowOrigin (+)
+2024/01/25 13:07:08 GetAllowOrigin (-)
+2024/01/25 13:07:08 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:08 GetHeaderDetails-
+2024/01/25 13:07:08 GetRequestorDetail-
+2024/01/25 13:07:08 END of End Point Call /dashboard 3a40a4ea-91e5-4875-bf07-20d95fb58a93
+2024/01/25 13:07:08 START of End Point Call /dashboard b218291c-7394-48c5-8f3a-a68cb2ed5a4c
+2024/01/25 13:07:08 GetRequestorDetail+
+2024/01/25 13:07:08 GetHeaderDetails+
+2024/01/25 13:07:08 GetAllowOrigin (+)
+2024/01/25 13:07:08 GetAllowOrigin (-)
+2024/01/25 13:07:08 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:08 GetHeaderDetails-
+2024/01/25 13:07:08 GetRequestorDetail-
+2024/01/25 13:07:08 GetDashboardDetail (+)
+2024/01/25 13:07:08 getBrokerId (+)
+2024/01/25 13:07:08 Broker Id :=  4
+2024/01/25 13:07:08 getBrokerId (-)
+2024/01/25 13:07:08 <nil> http://localhost:8080
+2024/01/25 13:07:08 lCurrentRouter :=  /dashboard
+2024/01/25 13:07:08 VerifyApiAccess (+)
+2024/01/25 13:07:08 ValidateAndGetClientDetails2+
+2024/01/25 13:07:08 CheckPageTokenValidity2+
+2024/01/25 13:07:08 CheckPageTokenValidity2-
+2024/01/25 13:07:08 Validation status 1:  S
+2024/01/25 13:07:08 ValidateABHIToken(-) 
+2024/01/25 13:07:08 GetRequestorDetail+
+2024/01/25 13:07:08 GetHeaderDetails+
+2024/01/25 13:07:08 GetAllowOrigin (+)
+2024/01/25 13:07:08 GetAllowOrigin (-)
+2024/01/25 13:07:08 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:08 GetHeaderDetails-
+2024/01/25 13:07:08 GetRequestorDetail-
+2024/01/25 13:07:08 END of End Point Call /tokenValidation e151f183-a0a7-4a1a-907b-d7b677670750
+2024/01/25 13:07:08 START of End Point Call /tokenValidation 92c4da75-bed8-44ac-a019-4fe950b29daf
+2024/01/25 13:07:08 GetRequestorDetail+
+2024/01/25 13:07:08 GetHeaderDetails+
+2024/01/25 13:07:08 GetAllowOrigin (+)
+2024/01/25 13:07:08 GetAllowOrigin (-)
+2024/01/25 13:07:08 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:08 GetHeaderDetails-
+2024/01/25 13:07:08 GetRequestorDetail-
+2024/01/25 13:07:08 START of End Point Call /verifyClient 20b01dac-da90-4b43-a7f1-17b5011069fe
+2024/01/25 13:07:08 GetRequestorDetail+
+2024/01/25 13:07:08 GetHeaderDetails+
+2024/01/25 13:07:08 GetAllowOrigin (+)
+2024/01/25 13:07:08 START of End Point Call /getClientName 50951b9d-2d9a-487c-a999-9ce0956639be
+2024/01/25 13:07:08 GetRequestorDetail+
+2024/01/25 13:07:08 GetHeaderDetails+
+2024/01/25 13:07:08 GetAllowOrigin (+)
+2024/01/25 13:07:08 GetAllowOrigin (-)
+2024/01/25 13:07:08 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:08 GetHeaderDetails-
+2024/01/25 13:07:08 GetRequestorDetail-
+2024/01/25 13:07:08 GetAllowOrigin (-)
+2024/01/25 13:07:08 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:08 GetHeaderDetails-
+2024/01/25 13:07:08 GetRequestorDetail-
+2024/01/25 13:07:08 ValidateABHIToken(+) GET
+2024/01/25 13:07:08 CheckPageTokenValidity2+
+2024/01/25 13:07:08 VerifyAccess(+) GET
+2024/01/25 13:07:08 getBrokerId (+)
+2024/01/25 13:07:08 GetClientName(+) GET
+2024/01/25 13:07:08 http://localhost:8080
+2024/01/25 13:07:08 ValidateAndGetClientDetails2+
+2024/01/25 13:07:08 CheckPageTokenValidity2+
+2024/01/25 13:07:08 Broker Id :=  4
+2024/01/25 13:07:08 getBrokerId (-)
+2024/01/25 13:07:08 ValidateAndGetClientDetails2+
+2024/01/25 13:07:08 CheckPageTokenValidity2+
+2024/01/25 13:07:08 CheckPageTokenValidity2-
+2024/01/25 13:07:08 FT043488
+2024/01/25 13:07:08 checkIsStaff+
+2024/01/25 13:07:08 checkIsStaff-
+2024/01/25 13:07:08 isStaff 
+2024/01/25 13:07:08 ValidateAndGetClientDetails2-
+2024/01/25 13:07:08 GetSetClient (+)
+2024/01/25 13:07:08 GetSetClient (-)
+2024/01/25 13:07:08 GetLoggedBy+
+2024/01/25 13:07:08 GetLoggedBy-
+2024/01/25 13:07:08 FT043488 FT043488
+2024/01/25 13:07:08 CheckRoute (+)
+2024/01/25 13:07:08 Router Access: Y
+2024/01/25 13:07:08 CheckRoute (-)
+2024/01/25 13:07:08 VerifyApiAccess (-)
+2024/01/25 13:07:08 GetSegmentDetails (+)
+2024/01/25 13:07:08 GetSegmentDetails (-)
+2024/01/25 13:07:08 GetDashboardDetail (-)
+2024/01/25 13:07:08 GetRequestorDetail+
+2024/01/25 13:07:08 GetHeaderDetails+
+2024/01/25 13:07:08 GetAllowOrigin (+)
+2024/01/25 13:07:08 GetAllowOrigin (-)
+2024/01/25 13:07:08 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:08 GetHeaderDetails-
+2024/01/25 13:07:08 GetRequestorDetail-
+2024/01/25 13:07:08 END of End Point Call /dashboard b218291c-7394-48c5-8f3a-a68cb2ed5a4c
+2024/01/25 13:07:08 CheckPageTokenValidity2-
+2024/01/25 13:07:08 Validation status 1:  S
+2024/01/25 13:07:08 ValidateABHIToken(-) 
+2024/01/25 13:07:08 GetRequestorDetail+
+2024/01/25 13:07:08 GetHeaderDetails+
+2024/01/25 13:07:08 GetAllowOrigin (+)
+2024/01/25 13:07:08 GetAllowOrigin (-)
+2024/01/25 13:07:08 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:08 GetHeaderDetails-
+2024/01/25 13:07:08 GetRequestorDetail-
+2024/01/25 13:07:08 CheckPageTokenValidity2-
+2024/01/25 13:07:08 FT043488
+2024/01/25 13:07:08 checkIsStaff+
+2024/01/25 13:07:08 END of End Point Call /tokenValidation 92c4da75-bed8-44ac-a019-4fe950b29daf
+2024/01/25 13:07:08 CheckPageTokenValidity2-
+2024/01/25 13:07:08 FT043488
+2024/01/25 13:07:08 checkIsStaff+
+2024/01/25 13:07:08 checkIsStaff-
+2024/01/25 13:07:08 isStaff 
+2024/01/25 13:07:08 ValidateAndGetClientDetails2-
+2024/01/25 13:07:08 lSessionClientId FT043488,FT043488
+2024/01/25 13:07:08 GetSetClient (+)
+2024/01/25 13:07:08 GetSetClient (-)
+2024/01/25 13:07:08 GetLoggedBy+
+2024/01/25 13:07:08 GetLoggedBy-
+2024/01/25 13:07:08 FT043488 FT043488
+2024/01/25 13:07:08 GetClientEmailId (+)
+2024/01/25 13:07:08 Api_call+
+2024/01/25 13:07:08 InsertLog (+)
+2024/01/25 13:07:08 checkIsStaff-
+2024/01/25 13:07:08 isStaff 
+2024/01/25 13:07:08 ValidateAndGetClientDetails2-
+2024/01/25 13:07:08 lSessionClientId FT043488,FT043488
+2024/01/25 13:07:08 GetSetClient (+)
+2024/01/25 13:07:08 GetSetClient (-)
+2024/01/25 13:07:08 GetLoggedBy+
+2024/01/25 13:07:08 GetLoggedBy-
+2024/01/25 13:07:08 FT043488 FT043488
+2024/01/25 13:07:08 GetMemberDetailId (+)
+2024/01/25 13:07:08 GetMemberDetailId (-)
+2024/01/25 13:07:08 InsertLog (-)
+2024/01/25 13:07:08 lFlag :=  Y
+2024/01/25 13:07:08 sendConfig (+)
+2024/01/25 13:07:08 GetClientRole (+)
+2024/01/25 13:07:08 JsonData:  
+2024/01/25 13:07:08 Role SuperAdmin
+2024/01/25 13:07:08 GetClientRole (-)
+2024/01/25 13:07:08 GetClientRouter (+)
+2024/01/25 13:07:08 GetClientRouter (-)
+2024/01/25 13:07:08 DefaultRouter (+)
+2024/01/25 13:07:08 GetAllowModules(+)
+2024/01/25 13:07:08 GetAllowModules(-)
+2024/01/25 13:07:08 DefaultRouter (-)
+2024/01/25 13:07:08 sendConfig (-)
+2024/01/25 13:07:08 VerifyAccess (-) GET
+2024/01/25 13:07:08 GetRequestorDetail+
+2024/01/25 13:07:08 GetHeaderDetails+
+2024/01/25 13:07:08 GetAllowOrigin (+)
+2024/01/25 13:07:08 GetAllowOrigin (-)
+2024/01/25 13:07:08 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:08 GetHeaderDetails-
+2024/01/25 13:07:08 GetRequestorDetail-
+2024/01/25 13:07:08 END of End Point Call /verifyClient 20b01dac-da90-4b43-a7f1-17b5011069fe
+2024/01/25 13:07:08 InsertLog (+)
+2024/01/25 13:07:08 InsertLog (-)
+2024/01/25 13:07:08 Error: <nil>
+2024/01/25 13:07:08 Api_call-
+2024/01/25 13:07:08 GetClientEmailId (-)
+2024/01/25 13:07:08 GetClientName (-) GET
+2024/01/25 13:07:08 GetRequestorDetail+
+2024/01/25 13:07:08 GetHeaderDetails+
+2024/01/25 13:07:08 GetAllowOrigin (+)
+2024/01/25 13:07:08 GetAllowOrigin (-)
+2024/01/25 13:07:08 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:08 GetHeaderDetails-
+2024/01/25 13:07:08 GetRequestorDetail-
+2024/01/25 13:07:08 END of End Point Call /getClientName 50951b9d-2d9a-487c-a999-9ce0956639be
+2024/01/25 13:07:10 START of End Point Call /tokenValidation d41c64fc-27cc-4600-8721-b2aba3e850e6
+2024/01/25 13:07:10 GetRequestorDetail+
+2024/01/25 13:07:10 GetHeaderDetails+
+2024/01/25 13:07:10 GetAllowOrigin (+)
+2024/01/25 13:07:10 GetAllowOrigin (-)
+2024/01/25 13:07:10 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:10 GetHeaderDetails-
+2024/01/25 13:07:10 GetRequestorDetail-
+2024/01/25 13:07:10 ValidateABHIToken(+) GET
+2024/01/25 13:07:10 CheckPageTokenValidity2+
+2024/01/25 13:07:10 CheckPageTokenValidity2-
+2024/01/25 13:07:10 Validation status 1:  S
+2024/01/25 13:07:10 ValidateABHIToken(-) 
+2024/01/25 13:07:10 GetRequestorDetail+
+2024/01/25 13:07:10 GetHeaderDetails+
+2024/01/25 13:07:10 GetAllowOrigin (+)
+2024/01/25 13:07:10 GetAllowOrigin (-)
+2024/01/25 13:07:10 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:10 GetHeaderDetails-
+2024/01/25 13:07:10 GetRequestorDetail-
+2024/01/25 13:07:10 END of End Point Call /tokenValidation d41c64fc-27cc-4600-8721-b2aba3e850e6
+2024/01/25 13:07:10 START of End Point Call /validRouter 942808fe-c8c2-4717-8153-0e60ccbe908e
+2024/01/25 13:07:10 GetRequestorDetail+
+2024/01/25 13:07:10 GetHeaderDetails+
+2024/01/25 13:07:10 GetAllowOrigin (+)
+2024/01/25 13:07:10 GetAllowOrigin (-)
+2024/01/25 13:07:10 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:10 GetHeaderDetails-
+2024/01/25 13:07:10 GetRequestorDetail-
+2024/01/25 13:07:10 RouterAccess(+) OPTIONS
+2024/01/25 13:07:10 getBrokerId (+)
+2024/01/25 13:07:10 Broker Id :=  4
+2024/01/25 13:07:10 getBrokerId (-)
+2024/01/25 13:07:10 <nil> http://localhost:8080
+2024/01/25 13:07:10 GetRequestorDetail+
+2024/01/25 13:07:10 GetHeaderDetails+
+2024/01/25 13:07:10 GetAllowOrigin (+)
+2024/01/25 13:07:10 GetAllowOrigin (-)
+2024/01/25 13:07:10 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:10 GetHeaderDetails-
+2024/01/25 13:07:10 GetRequestorDetail-
+2024/01/25 13:07:10 END of End Point Call /validRouter 942808fe-c8c2-4717-8153-0e60ccbe908e
+2024/01/25 13:07:10 START of End Point Call /validRouter 565473fe-e3a3-4a0a-bd37-17053f915729
+2024/01/25 13:07:10 GetRequestorDetail+
+2024/01/25 13:07:10 GetHeaderDetails+
+2024/01/25 13:07:10 GetAllowOrigin (+)
+2024/01/25 13:07:10 GetAllowOrigin (-)
+2024/01/25 13:07:10 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:10 GetHeaderDetails-
+2024/01/25 13:07:10 GetRequestorDetail-
+2024/01/25 13:07:10 RouterAccess(+) GET
+2024/01/25 13:07:10 getBrokerId (+)
+2024/01/25 13:07:10 Broker Id :=  4
+2024/01/25 13:07:10 getBrokerId (-)
+2024/01/25 13:07:10 <nil> http://localhost:8080
+2024/01/25 13:07:10 ValidateAndGetClientDetails2+
+2024/01/25 13:07:10 CheckPageTokenValidity2+
+2024/01/25 13:07:10 CheckPageTokenValidity2-
+2024/01/25 13:07:10 FT043488
+2024/01/25 13:07:10 checkIsStaff+
+2024/01/25 13:07:10 checkIsStaff-
+2024/01/25 13:07:10 isStaff 
+2024/01/25 13:07:10 ValidateAndGetClientDetails2-
+2024/01/25 13:07:10 GetSetClient (+)
+2024/01/25 13:07:10 GetSetClient (-)
+2024/01/25 13:07:10 GetLoggedBy+
+2024/01/25 13:07:10 GetLoggedBy-
+2024/01/25 13:07:10 FT043488 FT043488
+2024/01/25 13:07:10 DefaultRouter (+)
+2024/01/25 13:07:10 GetAllowModules(+)
+2024/01/25 13:07:10 GetAllowModules(-)
+2024/01/25 13:07:10 DefaultRouter (-)
+2024/01/25 13:07:10 getSubRouters (+)
+2024/01/25 13:07:10 getSubRouters (-)
+2024/01/25 13:07:10 getSubRouters (+)
+2024/01/25 13:07:10 getSubRouters (-)
+2024/01/25 13:07:10 getSubRouters (+)
+2024/01/25 13:07:10 getSubRouters (-)
+2024/01/25 13:07:10 RouterAccess (-) GET
+2024/01/25 13:07:10 GetRequestorDetail+
+2024/01/25 13:07:10 GetHeaderDetails+
+2024/01/25 13:07:10 GetAllowOrigin (+)
+2024/01/25 13:07:10 GetAllowOrigin (-)
+2024/01/25 13:07:10 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:10 GetHeaderDetails-
+2024/01/25 13:07:10 GetRequestorDetail-
+2024/01/25 13:07:10 END of End Point Call /validRouter 565473fe-e3a3-4a0a-bd37-17053f915729
+2024/01/25 13:07:10 START of End Point Call /getSgbMaster 1ba2585b-dd85-4e9f-93ac-d6fcd6cb50c5
+2024/01/25 13:07:10 GetRequestorDetail+
+2024/01/25 13:07:10 GetHeaderDetails+
+2024/01/25 13:07:10 GetAllowOrigin (+)
+2024/01/25 13:07:10 START of End Point Call /sgb/getSgbHistory 9010edc3-01ce-4f56-888b-daade1b88240
+2024/01/25 13:07:10 GetRequestorDetail+
+2024/01/25 13:07:10 GetHeaderDetails+
+2024/01/25 13:07:10 GetAllowOrigin (+)
+2024/01/25 13:07:10 GetAllowOrigin (-)
+2024/01/25 13:07:10 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:10 GetHeaderDetails-
+2024/01/25 13:07:10 GetRequestorDetail-
+2024/01/25 13:07:10 GetAllowOrigin (-)
+2024/01/25 13:07:10 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:10 GetHeaderDetails-
+2024/01/25 13:07:10 GetRequestorDetail-
+2024/01/25 13:07:10 GetSgbMaster (+) GET
+2024/01/25 13:07:10 getBrokerId (+)
+2024/01/25 13:07:10 GetSgbOrderHistory (+) GET
+2024/01/25 13:07:10 getBrokerId (+)
+2024/01/25 13:07:10 Broker Id :=  4
+2024/01/25 13:07:10 getBrokerId (-)
+2024/01/25 13:07:10 <nil> http://localhost:8080
+2024/01/25 13:07:10 VerifyApiAccess (+)
+2024/01/25 13:07:10 ValidateAndGetClientDetails2+
+2024/01/25 13:07:10 CheckPageTokenValidity2+
+2024/01/25 13:07:10 Broker Id :=  4
+2024/01/25 13:07:10 getBrokerId (-)
+2024/01/25 13:07:10 <nil> http://localhost:8080
+2024/01/25 13:07:10 VerifyApiAccess (+)
+2024/01/25 13:07:10 ValidateAndGetClientDetails2+
+2024/01/25 13:07:10 CheckPageTokenValidity2+
+2024/01/25 13:07:10 CheckPageTokenValidity2-
+2024/01/25 13:07:10 FT043488
+2024/01/25 13:07:10 checkIsStaff+
+2024/01/25 13:07:10 CheckPageTokenValidity2-
+2024/01/25 13:07:10 FT043488
+2024/01/25 13:07:10 checkIsStaff+
+2024/01/25 13:07:10 checkIsStaff-
+2024/01/25 13:07:10 isStaff 
+2024/01/25 13:07:10 ValidateAndGetClientDetails2-
+2024/01/25 13:07:10 GetSetClient (+)
+2024/01/25 13:07:10 GetSetClient (-)
+2024/01/25 13:07:10 GetLoggedBy+
+2024/01/25 13:07:10 GetLoggedBy-
+2024/01/25 13:07:10 FT043488 FT043488
+2024/01/25 13:07:10 CheckRoute (+)
+2024/01/25 13:07:10 checkIsStaff-
+2024/01/25 13:07:10 isStaff 
+2024/01/25 13:07:10 ValidateAndGetClientDetails2-
+2024/01/25 13:07:10 GetSetClient (+)
+2024/01/25 13:07:10 GetSetClient (-)
+2024/01/25 13:07:10 GetLoggedBy+
+2024/01/25 13:07:10 GetLoggedBy-
+2024/01/25 13:07:10 FT043488 FT043488
+2024/01/25 13:07:10 CheckRoute (+)
+2024/01/25 13:07:10 Router Access: Y
+2024/01/25 13:07:10 Router Access: Y
+2024/01/25 13:07:10 CheckRoute (-)
+2024/01/25 13:07:10 CheckRoute (-)
+2024/01/25 13:07:10 VerifyApiAccess (-)
+2024/01/25 13:07:10 GetSGBdetail (+)
+2024/01/25 13:07:10 VerifyApiAccess (-)
+2024/01/25 13:07:10 GetSGBOrderHistorydetail (+)
+2024/01/25 13:07:10 SgbMasterRec (+)
+2024/01/25 13:07:10 GetSgbDisclaimer (+)
+2024/01/25 13:07:10 SgbMasterRec (+)
+2024/01/25 13:07:10 GetSgbDisclaimer (+)
+2024/01/25 13:07:10 GetSgbDisclaimer (-)
+2024/01/25 13:07:10 GetSgbDisclaimer (-)
+2024/01/25 13:07:10 SgbMasterRec (-)
+2024/01/25 13:07:10 SgbOrderHistoryRec (+)
+2024/01/25 13:07:10 pMethod GetSgbOrderHistory
+2024/01/25 13:07:10 SgbOrderRec (+)
+2024/01/25 13:07:10 SgbOrderRec (-)
+2024/01/25 13:07:10 SgbOrderRec (+)
+2024/01/25 13:07:10 SgbOrderRec (-)
+2024/01/25 13:07:10 SgbOrderRec (+)
+2024/01/25 13:07:10 SgbOrderHistoryRec (-)
+2024/01/25 13:07:10 GetSGBOrderHistorydetail (-)
+2024/01/25 13:07:10 GetSgbOrderHistory (-) GET
+2024/01/25 13:07:10 GetRequestorDetail+
+2024/01/25 13:07:10 GetHeaderDetails+
+2024/01/25 13:07:10 GetAllowOrigin (+)
+2024/01/25 13:07:10 GetAllowOrigin (-)
+2024/01/25 13:07:10 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:10 GetHeaderDetails-
+2024/01/25 13:07:10 GetRequestorDetail-
+2024/01/25 13:07:10 END of End Point Call /sgb/getSgbHistory 9010edc3-01ce-4f56-888b-daade1b88240
+2024/01/25 13:07:10 SgbOrderRec (-)
+2024/01/25 13:07:10 SgbOrderRec (+)
+2024/01/25 13:07:10 SgbOrderRec (-)
+2024/01/25 13:07:10 SgbOrderRec (+)
+2024/01/25 13:07:10 SgbOrderRec (-)
+2024/01/25 13:07:10 SgbMasterRec (-)
+2024/01/25 13:07:10 GetSgbDisclaimer (+)
+2024/01/25 13:07:10 GetSgbDisclaimer (-)
+2024/01/25 13:07:10 GetSGBdetail (-)
+2024/01/25 13:07:10 GetSgbMaster (-) GET
+2024/01/25 13:07:10 GetRequestorDetail+
+2024/01/25 13:07:10 GetHeaderDetails+
+2024/01/25 13:07:10 GetAllowOrigin (+)
+2024/01/25 13:07:10 GetAllowOrigin (-)
+2024/01/25 13:07:10 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:10 GetHeaderDetails-
+2024/01/25 13:07:10 GetRequestorDetail-
+2024/01/25 13:07:10 END of End Point Call /getSgbMaster 1ba2585b-dd85-4e9f-93ac-d6fcd6cb50c5
+2024/01/25 13:07:47 START of End Point Call /tokenValidation c29cd2a5-8431-4265-b27b-3ebbd4039b23
+2024/01/25 13:07:47 GetRequestorDetail+
+2024/01/25 13:07:47 GetHeaderDetails+
+2024/01/25 13:07:47 GetAllowOrigin (+)
+2024/01/25 13:07:47 GetAllowOrigin (-)
+2024/01/25 13:07:47 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:47 GetHeaderDetails-
+2024/01/25 13:07:47 GetRequestorDetail-
+2024/01/25 13:07:47 ValidateABHIToken(+) GET
+2024/01/25 13:07:47 CheckPageTokenValidity2+
+2024/01/25 13:07:47 CheckPageTokenValidity2-
+2024/01/25 13:07:47 Validation status 1:  S
+2024/01/25 13:07:47 ValidateABHIToken(-) 
+2024/01/25 13:07:47 GetRequestorDetail+
+2024/01/25 13:07:47 GetHeaderDetails+
+2024/01/25 13:07:47 GetAllowOrigin (+)
+2024/01/25 13:07:47 GetAllowOrigin (-)
+2024/01/25 13:07:47 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:47 GetHeaderDetails-
+2024/01/25 13:07:47 GetRequestorDetail-
+2024/01/25 13:07:47 END of End Point Call /tokenValidation c29cd2a5-8431-4265-b27b-3ebbd4039b23
+2024/01/25 13:07:47 START of End Point Call /validRouter b0a5c716-6178-4baa-be83-a7e78e03cc15
+2024/01/25 13:07:47 GetRequestorDetail+
+2024/01/25 13:07:47 GetHeaderDetails+
+2024/01/25 13:07:47 GetAllowOrigin (+)
+2024/01/25 13:07:47 GetAllowOrigin (-)
+2024/01/25 13:07:47 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:47 GetHeaderDetails-
+2024/01/25 13:07:47 GetRequestorDetail-
+2024/01/25 13:07:47 RouterAccess(+) OPTIONS
+2024/01/25 13:07:47 getBrokerId (+)
+2024/01/25 13:07:47 Broker Id :=  4
+2024/01/25 13:07:47 getBrokerId (-)
+2024/01/25 13:07:47 <nil> http://localhost:8080
+2024/01/25 13:07:47 GetRequestorDetail+
+2024/01/25 13:07:47 GetHeaderDetails+
+2024/01/25 13:07:47 GetAllowOrigin (+)
+2024/01/25 13:07:47 GetAllowOrigin (-)
+2024/01/25 13:07:47 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:47 GetHeaderDetails-
+2024/01/25 13:07:47 GetRequestorDetail-
+2024/01/25 13:07:47 END of End Point Call /validRouter b0a5c716-6178-4baa-be83-a7e78e03cc15
+2024/01/25 13:07:47 START of End Point Call /validRouter 2cc6df1b-0c18-4182-9c4c-16be9236454f
+2024/01/25 13:07:47 GetRequestorDetail+
+2024/01/25 13:07:47 GetHeaderDetails+
+2024/01/25 13:07:47 GetAllowOrigin (+)
+2024/01/25 13:07:47 GetAllowOrigin (-)
+2024/01/25 13:07:47 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:47 GetHeaderDetails-
+2024/01/25 13:07:47 GetRequestorDetail-
+2024/01/25 13:07:47 RouterAccess(+) GET
+2024/01/25 13:07:47 getBrokerId (+)
+2024/01/25 13:07:47 Broker Id :=  4
+2024/01/25 13:07:47 getBrokerId (-)
+2024/01/25 13:07:47 <nil> http://localhost:8080
+2024/01/25 13:07:47 ValidateAndGetClientDetails2+
+2024/01/25 13:07:47 CheckPageTokenValidity2+
+2024/01/25 13:07:47 CheckPageTokenValidity2-
+2024/01/25 13:07:47 FT043488
+2024/01/25 13:07:47 checkIsStaff+
+2024/01/25 13:07:47 checkIsStaff-
+2024/01/25 13:07:47 isStaff 
+2024/01/25 13:07:47 ValidateAndGetClientDetails2-
+2024/01/25 13:07:47 GetSetClient (+)
+2024/01/25 13:07:47 GetSetClient (-)
+2024/01/25 13:07:47 GetLoggedBy+
+2024/01/25 13:07:47 GetLoggedBy-
+2024/01/25 13:07:47 FT043488 FT043488
+2024/01/25 13:07:47 DefaultRouter (+)
+2024/01/25 13:07:47 GetAllowModules(+)
+2024/01/25 13:07:47 GetAllowModules(-)
+2024/01/25 13:07:48 DefaultRouter (-)
+2024/01/25 13:07:48 getSubRouters (+)
+2024/01/25 13:07:48 getSubRouters (-)
+2024/01/25 13:07:48 getSubRouters (+)
+2024/01/25 13:07:48 getSubRouters (-)
+2024/01/25 13:07:48 getSubRouters (+)
+2024/01/25 13:07:48 getSubRouters (-)
+2024/01/25 13:07:48 RouterAccess (-) GET
+2024/01/25 13:07:48 GetRequestorDetail+
+2024/01/25 13:07:48 GetHeaderDetails+
+2024/01/25 13:07:48 GetAllowOrigin (+)
+2024/01/25 13:07:48 GetAllowOrigin (-)
+2024/01/25 13:07:48 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:48 GetHeaderDetails-
+2024/01/25 13:07:48 GetRequestorDetail-
+2024/01/25 13:07:48 END of End Point Call /validRouter 2cc6df1b-0c18-4182-9c4c-16be9236454f
+2024/01/25 13:07:48 START of End Point Call /getIpoHistory b7a81072-297b-4eaf-931c-6f3ad16b14db
+2024/01/25 13:07:48 GetRequestorDetail+
+2024/01/25 13:07:48 GetHeaderDetails+
+2024/01/25 13:07:48 GetAllowOrigin (+)
+2024/01/25 13:07:48 START of End Point Call /getIpoMaster b6441bbe-0bc7-4173-a4ef-963115b29d17
+2024/01/25 13:07:48 GetRequestorDetail+
+2024/01/25 13:07:48 GetHeaderDetails+
+2024/01/25 13:07:48 GetAllowOrigin (+)
+2024/01/25 13:07:48 GetAllowOrigin (-)
+2024/01/25 13:07:48 GetAllowOrigin (-)
+2024/01/25 13:07:48 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:48 GetHeaderDetails-
+2024/01/25 13:07:48 GetRequestorDetail-
+2024/01/25 13:07:48 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:48 GetHeaderDetails-
+2024/01/25 13:07:48 GetRequestorDetail-
+2024/01/25 13:07:48 GetIpoHistory (+) GET
+2024/01/25 13:07:48 getBrokerId (+)
+2024/01/25 13:07:48 GetIpoMaster(+) GET
+2024/01/25 13:07:48 getBrokerId (+)
+2024/01/25 13:07:48 Broker Id :=  4
+2024/01/25 13:07:48 getBrokerId (-)
+2024/01/25 13:07:48 <nil> http://localhost:8080
+2024/01/25 13:07:48 VerifyApiAccess (+)
+2024/01/25 13:07:48 ValidateAndGetClientDetails2+
+2024/01/25 13:07:48 CheckPageTokenValidity2+
+2024/01/25 13:07:48 Broker Id :=  4
+2024/01/25 13:07:48 getBrokerId (-)
+2024/01/25 13:07:48 VerifyApiAccess (+)
+2024/01/25 13:07:48 ValidateAndGetClientDetails2+
+2024/01/25 13:07:48 CheckPageTokenValidity2+
+2024/01/25 13:07:48 CheckPageTokenValidity2-
+2024/01/25 13:07:48 FT043488
+2024/01/25 13:07:48 checkIsStaff+
+2024/01/25 13:07:48 CheckPageTokenValidity2-
+2024/01/25 13:07:48 FT043488
+2024/01/25 13:07:48 checkIsStaff+
+2024/01/25 13:07:48 checkIsStaff-
+2024/01/25 13:07:48 checkIsStaff-
+2024/01/25 13:07:48 isStaff 
+2024/01/25 13:07:48 ValidateAndGetClientDetails2-
+2024/01/25 13:07:48 GetSetClient (+)
+2024/01/25 13:07:48 isStaff 
+2024/01/25 13:07:48 ValidateAndGetClientDetails2-
+2024/01/25 13:07:48 GetSetClient (+)
+2024/01/25 13:07:48 GetSetClient (-)
+2024/01/25 13:07:48 GetLoggedBy+
+2024/01/25 13:07:48 GetLoggedBy-
+2024/01/25 13:07:48 FT043488 FT043488
+2024/01/25 13:07:48 GetSetClient (-)
+2024/01/25 13:07:48 CheckRoute (+)
+2024/01/25 13:07:48 GetLoggedBy+
+2024/01/25 13:07:48 GetLoggedBy-
+2024/01/25 13:07:48 FT043488 FT043488
+2024/01/25 13:07:48 CheckRoute (+)
+2024/01/25 13:07:48 Router Access: Y
+2024/01/25 13:07:48 Router Access: Y
+2024/01/25 13:07:48 CheckRoute (-)
+2024/01/25 13:07:48 VerifyApiAccess (-)
+2024/01/25 13:07:48 GetData (+)
+2024/01/25 13:07:48 CheckRoute (-)
+2024/01/25 13:07:48 VerifyApiAccess (-)
+2024/01/25 13:07:48 GetIpoMasterDetail (+)
+2024/01/25 13:07:48 GetData (-)
+2024/01/25 13:07:48 GetIpoHistory (-) GET
+2024/01/25 13:07:48 GetRequestorDetail+
+2024/01/25 13:07:48 GetHeaderDetails+
+2024/01/25 13:07:48 GetAllowOrigin (+)
+2024/01/25 13:07:48 GetAllowOrigin (-)
+2024/01/25 13:07:48 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:48 GetHeaderDetails-
+2024/01/25 13:07:48 GetRequestorDetail-
+2024/01/25 13:07:48 END of End Point Call /getIpoHistory b7a81072-297b-4eaf-931c-6f3ad16b14db
+2024/01/25 13:07:48 GetIpoMasterDetail (-)
+2024/01/25 13:07:48 GetIpoMaster (-) GET
+2024/01/25 13:07:48 GetRequestorDetail+
+2024/01/25 13:07:48 GetHeaderDetails+
+2024/01/25 13:07:48 GetAllowOrigin (+)
+2024/01/25 13:07:48 GetAllowOrigin (-)
+2024/01/25 13:07:48 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:48 GetHeaderDetails-
+2024/01/25 13:07:48 GetRequestorDetail-
+2024/01/25 13:07:48 END of End Point Call /getIpoMaster b6441bbe-0bc7-4173-a4ef-963115b29d17
+2024/01/25 13:07:49 START of End Point Call /tokenValidation 01119c8c-fd2b-4405-8ce3-604052314450
+2024/01/25 13:07:49 GetRequestorDetail+
+2024/01/25 13:07:49 GetHeaderDetails+
+2024/01/25 13:07:49 GetAllowOrigin (+)
+2024/01/25 13:07:49 GetAllowOrigin (-)
+2024/01/25 13:07:49 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:49 GetHeaderDetails-
+2024/01/25 13:07:49 GetRequestorDetail-
+2024/01/25 13:07:49 ValidateABHIToken(+) GET
+2024/01/25 13:07:49 CheckPageTokenValidity2+
+2024/01/25 13:07:49 CheckPageTokenValidity2-
+2024/01/25 13:07:49 Validation status 1:  S
+2024/01/25 13:07:49 ValidateABHIToken(-) 
+2024/01/25 13:07:49 GetRequestorDetail+
+2024/01/25 13:07:49 GetHeaderDetails+
+2024/01/25 13:07:49 GetAllowOrigin (+)
+2024/01/25 13:07:49 GetAllowOrigin (-)
+2024/01/25 13:07:49 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:49 GetHeaderDetails-
+2024/01/25 13:07:49 GetRequestorDetail-
+2024/01/25 13:07:49 END of End Point Call /tokenValidation 01119c8c-fd2b-4405-8ce3-604052314450
+2024/01/25 13:07:49 START of End Point Call /validRouter ccedced9-3163-4d25-8b33-d8617f897027
+2024/01/25 13:07:49 GetRequestorDetail+
+2024/01/25 13:07:49 GetHeaderDetails+
+2024/01/25 13:07:49 GetAllowOrigin (+)
+2024/01/25 13:07:49 GetAllowOrigin (-)
+2024/01/25 13:07:49 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:49 GetHeaderDetails-
+2024/01/25 13:07:49 GetRequestorDetail-
+2024/01/25 13:07:49 RouterAccess(+) GET
+2024/01/25 13:07:49 getBrokerId (+)
+2024/01/25 13:07:49 Broker Id :=  4
+2024/01/25 13:07:49 getBrokerId (-)
+2024/01/25 13:07:49 <nil> http://localhost:8080
+2024/01/25 13:07:49 ValidateAndGetClientDetails2+
+2024/01/25 13:07:49 CheckPageTokenValidity2+
+2024/01/25 13:07:49 CheckPageTokenValidity2-
+2024/01/25 13:07:49 FT043488
+2024/01/25 13:07:49 checkIsStaff+
+2024/01/25 13:07:49 checkIsStaff-
+2024/01/25 13:07:49 isStaff 
+2024/01/25 13:07:49 ValidateAndGetClientDetails2-
+2024/01/25 13:07:49 GetSetClient (+)
+2024/01/25 13:07:49 GetSetClient (-)
+2024/01/25 13:07:49 GetLoggedBy+
+2024/01/25 13:07:49 GetLoggedBy-
+2024/01/25 13:07:49 FT043488 FT043488
+2024/01/25 13:07:49 DefaultRouter (+)
+2024/01/25 13:07:49 GetAllowModules(+)
+2024/01/25 13:07:49 GetAllowModules(-)
+2024/01/25 13:07:49 DefaultRouter (-)
+2024/01/25 13:07:49 getSubRouters (+)
+2024/01/25 13:07:49 getSubRouters (-)
+2024/01/25 13:07:49 getSubRouters (+)
+2024/01/25 13:07:49 getSubRouters (-)
+2024/01/25 13:07:49 getSubRouters (+)
+2024/01/25 13:07:49 getSubRouters (-)
+2024/01/25 13:07:49 RouterAccess (-) GET
+2024/01/25 13:07:49 GetRequestorDetail+
+2024/01/25 13:07:49 GetHeaderDetails+
+2024/01/25 13:07:49 GetAllowOrigin (+)
+2024/01/25 13:07:49 GetAllowOrigin (-)
+2024/01/25 13:07:49 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:49 GetHeaderDetails-
+2024/01/25 13:07:49 GetRequestorDetail-
+2024/01/25 13:07:49 END of End Point Call /validRouter ccedced9-3163-4d25-8b33-d8617f897027
+2024/01/25 13:07:49 START of End Point Call /getSgbMaster 2389bafb-ce58-49aa-ac52-38197247de4f
+2024/01/25 13:07:49 GetRequestorDetail+
+2024/01/25 13:07:49 GetHeaderDetails+
+2024/01/25 13:07:49 GetAllowOrigin (+)
+2024/01/25 13:07:49 START of End Point Call /sgb/getSgbHistory 8b45f68c-d0f3-4e9b-b285-563f4a1b6e67
+2024/01/25 13:07:49 GetRequestorDetail+
+2024/01/25 13:07:49 GetHeaderDetails+
+2024/01/25 13:07:49 GetAllowOrigin (+)
+2024/01/25 13:07:49 GetAllowOrigin (-)
+2024/01/25 13:07:49 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:49 GetHeaderDetails-
+2024/01/25 13:07:49 GetRequestorDetail-
+2024/01/25 13:07:49 GetAllowOrigin (-)
+2024/01/25 13:07:49 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:49 GetHeaderDetails-
+2024/01/25 13:07:49 GetRequestorDetail-
+2024/01/25 13:07:49 GetSgbMaster (+) GET
+2024/01/25 13:07:49 getBrokerId (+)
+2024/01/25 13:07:49 GetSgbOrderHistory (+) GET
+2024/01/25 13:07:49 getBrokerId (+)
+2024/01/25 13:07:49 Broker Id :=  4
+2024/01/25 13:07:49 getBrokerId (-)
+2024/01/25 13:07:49 <nil> http://localhost:8080
+2024/01/25 13:07:49 VerifyApiAccess (+)
+2024/01/25 13:07:49 ValidateAndGetClientDetails2+
+2024/01/25 13:07:49 CheckPageTokenValidity2+
+2024/01/25 13:07:49 Broker Id :=  4
+2024/01/25 13:07:49 getBrokerId (-)
+2024/01/25 13:07:49 <nil> http://localhost:8080
+2024/01/25 13:07:49 VerifyApiAccess (+)
+2024/01/25 13:07:49 ValidateAndGetClientDetails2+
+2024/01/25 13:07:49 CheckPageTokenValidity2+
+2024/01/25 13:07:49 CheckPageTokenValidity2-
+2024/01/25 13:07:49 FT043488
+2024/01/25 13:07:49 checkIsStaff+
+2024/01/25 13:07:49 CheckPageTokenValidity2-
+2024/01/25 13:07:49 FT043488
+2024/01/25 13:07:49 checkIsStaff+
+2024/01/25 13:07:49 checkIsStaff-
+2024/01/25 13:07:49 checkIsStaff-
+2024/01/25 13:07:49 isStaff 
+2024/01/25 13:07:49 isStaff 
+2024/01/25 13:07:49 ValidateAndGetClientDetails2-
+2024/01/25 13:07:49 GetSetClient (+)
+2024/01/25 13:07:49 ValidateAndGetClientDetails2-
+2024/01/25 13:07:49 GetSetClient (+)
+2024/01/25 13:07:49 GetSetClient (-)
+2024/01/25 13:07:49 GetLoggedBy+
+2024/01/25 13:07:49 GetLoggedBy-
+2024/01/25 13:07:49 FT043488 FT043488
+2024/01/25 13:07:49 CheckRoute (+)
+2024/01/25 13:07:49 GetSetClient (-)
+2024/01/25 13:07:49 GetLoggedBy+
+2024/01/25 13:07:49 GetLoggedBy-
+2024/01/25 13:07:49 FT043488 FT043488
+2024/01/25 13:07:49 CheckRoute (+)
+2024/01/25 13:07:49 Router Access: Y
+2024/01/25 13:07:49 Router Access: Y
+2024/01/25 13:07:49 CheckRoute (-)
+2024/01/25 13:07:49 VerifyApiAccess (-)
+2024/01/25 13:07:49 GetSGBdetail (+)
+2024/01/25 13:07:49 CheckRoute (-)
+2024/01/25 13:07:49 VerifyApiAccess (-)
+2024/01/25 13:07:49 GetSGBOrderHistorydetail (+)
+2024/01/25 13:07:49 SgbMasterRec (+)
+2024/01/25 13:07:49 SgbMasterRec (+)
+2024/01/25 13:07:49 GetSgbDisclaimer (+)
+2024/01/25 13:07:49 GetSgbDisclaimer (+)
+2024/01/25 13:07:49 GetSgbDisclaimer (-)
+2024/01/25 13:07:49 GetSgbDisclaimer (-)
+2024/01/25 13:07:49 SgbMasterRec (-)
+2024/01/25 13:07:49 SgbOrderHistoryRec (+)
+2024/01/25 13:07:49 pMethod GetSgbOrderHistory
+2024/01/25 13:07:49 SgbOrderRec (+)
+2024/01/25 13:07:49 SgbOrderRec (-)
+2024/01/25 13:07:49 SgbOrderRec (+)
+2024/01/25 13:07:49 SgbOrderRec (-)
+2024/01/25 13:07:49 SgbOrderRec (+)
+2024/01/25 13:07:49 SgbOrderHistoryRec (-)
+2024/01/25 13:07:49 GetSGBOrderHistorydetail (-)
+2024/01/25 13:07:49 GetSgbOrderHistory (-) GET
+2024/01/25 13:07:49 GetRequestorDetail+
+2024/01/25 13:07:49 GetHeaderDetails+
+2024/01/25 13:07:49 GetAllowOrigin (+)
+2024/01/25 13:07:49 GetAllowOrigin (-)
+2024/01/25 13:07:49 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:49 GetHeaderDetails-
+2024/01/25 13:07:49 GetRequestorDetail-
+2024/01/25 13:07:49 END of End Point Call /sgb/getSgbHistory 8b45f68c-d0f3-4e9b-b285-563f4a1b6e67
+2024/01/25 13:07:49 SgbOrderRec (-)
+2024/01/25 13:07:49 SgbOrderRec (+)
+2024/01/25 13:07:49 SgbOrderRec (-)
+2024/01/25 13:07:49 SgbOrderRec (+)
+2024/01/25 13:07:49 SgbOrderRec (-)
+2024/01/25 13:07:49 SgbMasterRec (-)
+2024/01/25 13:07:49 GetSgbDisclaimer (+)
+2024/01/25 13:07:50 GetSgbDisclaimer (-)
+2024/01/25 13:07:50 GetSGBdetail (-)
+2024/01/25 13:07:50 GetSgbMaster (-) GET
+2024/01/25 13:07:50 GetRequestorDetail+
+2024/01/25 13:07:50 GetHeaderDetails+
+2024/01/25 13:07:50 GetAllowOrigin (+)
+2024/01/25 13:07:50 GetAllowOrigin (-)
+2024/01/25 13:07:50 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/25 13:07:50 GetHeaderDetails-
+2024/01/25 13:07:50 GetRequestorDetail-
+2024/01/25 13:07:50 END of End Point Call /getSgbMaster 2389bafb-ce58-49aa-ac52-38197247de4f

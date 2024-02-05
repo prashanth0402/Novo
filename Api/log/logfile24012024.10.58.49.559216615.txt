@@ -1,0 +1,17 @@
+2024/01/24 10:58:49 ValidToken (+)
+2024/01/24 10:58:49 ValidToken -
+2024/01/24 10:58:49 AccessDetail (+)
+2024/01/24 10:58:49 DecodeToString(+)
+2024/01/24 10:58:49 DecodeToString(-)
+2024/01/24 10:58:49 AccessDetail (-)
+2024/01/24 10:58:49 GetBseActiveIpos (+)
+2024/01/24 10:58:49 GSB03 sql: expected 2 destination arguments in Scan, not 3
+2024/01/24 10:58:49 lIpoDataArr := []
+2024/01/24 10:58:49 EBIMC02 sql: expected 2 destination arguments in Scan, not 3
+2024/01/24 10:58:49 lErr1 sql: expected 2 destination arguments in Scan, not 3
+2024/01/24 10:58:49 Today 10:58:49
+2024/01/24 10:58:49 GetAllowOrigin (+)
+2024/01/24 10:58:49 GetAllowOrigin (-)
+2024/01/24 10:58:49 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/24 10:58:49 common.ABHIAppName novodev
+2024/01/24 10:58:49 common.ABHIDomain localhost

@@ -1,0 +1,6 @@
+2024/01/24 15:09:04 Today 15:09:04
+2024/01/24 15:09:04 GetAllowOrigin (+)
+2024/01/24 15:09:04 GetAllowOrigin (-)
+2024/01/24 15:09:04 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/24 15:09:04 common.ABHIAppName novodev
+2024/01/24 15:09:04 common.ABHIDomain localhost

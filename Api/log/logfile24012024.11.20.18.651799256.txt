@@ -1,0 +1,28 @@
+2024/01/24 11:20:18 BseGetToken (+)
+2024/01/24 11:20:18 ValidToken (+)
+2024/01/24 11:20:18 ValidToken -
+2024/01/24 11:20:18 BseSgbToken (+)
+2024/01/24 11:20:18 AccessDetail (+)
+2024/01/24 11:20:18 DecodeToString(+)
+2024/01/24 11:20:18 DecodeToString(-)
+2024/01/24 11:20:18 AccessDetail (-)
+2024/01/24 11:20:18 BseSgbTokenApi (+)
+2024/01/24 11:20:18 Api_call+
+2024/01/24 11:20:18 InsertLog (+)
+2024/01/24 11:20:18 InsertLog (-)
+2024/01/24 11:20:18 JsonData:  {"membercode":"6524","loginid":"6525","password":"FtCxel7N@","ibbsid":"T0G2S1K8BF"}
+2024/01/24 11:20:18 InsertLog (+)
+2024/01/24 11:20:18 InsertLog (-)
+2024/01/24 11:20:18 Error: <nil>
+2024/01/24 11:20:18 Api_call-
+2024/01/24 11:20:18 BseSgbTokenApi (-)
+2024/01/24 11:20:18 BseSgbToken (-)
+2024/01/24 11:20:18 lTokenResp {6524 6525   006 LOGINID IS NOT CONFIGURED FOR API}
+2024/01/24 11:20:18 BseGetToken (-)
+2024/01/24 11:20:18 lToken 
+2024/01/24 11:20:18 Today 11:20:18
+2024/01/24 11:20:18 GetAllowOrigin (+)
+2024/01/24 11:20:18 GetAllowOrigin (-)
+2024/01/24 11:20:18 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/24 11:20:18 common.ABHIAppName novodev
+2024/01/24 11:20:18 common.ABHIDomain localhost

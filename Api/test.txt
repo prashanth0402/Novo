@@ -1,0 +1,44 @@
+test
+
+
+// New Alter query for a_nov_segment
+
+ALTER TABLE a_novo_segment ADD CreatedBy varchar(10) NULL;
+ALTER TABLE a_novo_segment ADD CreatedDate datetime NULL;
+ALTER TABLE a_novo_segment ADD UpdatedBy varchar(10) NULL;
+ALTER TABLE a_novo_segment ADD UpdatedDate datetime NULL;
+
+
+// SGB Error Code Description - ERRORSTAGE
+
+Code            Description
+V               when getting error while verifying client ledger balance to place SGB order.
+
+I               Client ledger balance verified successfully but ledger balance is insufficient to place SGB order.
+
+F               While Processing Block Amount in Front Office when we getting error.
+
+B               Front Office JV processed successfully, when try to block amount in BackOffice getting error.
+
+A               We Blocked Amount in Front Office but we try to block amount in Back office we getting error,
+                so need to reverse that amount to Front office,when processing Reverse for Front Office Also getting Error.
+
+E               When try to place SGB order while er getting error.
+
+R               When try to place order in exchange incase of failed,we need to reverse the Blocked amount in
+                Back Office and Front Office,getting error while release the blocked amount in back office.
+
+H               When placing Order in Exchange incase of failed, we need to adjust the amount in Front Office 
+                after reversing Back Office completion getting error when try to adjust amount in Front Office.
+ 
+
+// SGB Process Code Description - PROCESS STATUS
+
+Code            Description
+N               This Orders are captured only in local.
+
+Y               This Orders are successfully processed in Exchange and BO,FO JV.
+
+E               This Orders are getting error while processing order to exchange.
+
+We wanted to bring an important information to your attention regarding your recent Sovereign Gold Bond (SGB) orders. It has come to our attention that there may not be sufficient funds available in your account to cover the cost of the recent SGB orders you have placed.

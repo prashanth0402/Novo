@@ -1,0 +1,54 @@
+2024/01/24 11:15:22 BseGetToken (+)
+2024/01/24 11:15:22 ValidToken (+)
+2024/01/24 11:15:22 ValidToken -
+2024/01/24 11:15:22 BseSgbToken (+)
+2024/01/24 11:15:22 AccessDetail (+)
+2024/01/24 11:15:22 DecodeToString(+)
+2024/01/24 11:15:22 DecodeToString(-)
+2024/01/24 11:15:22 AccessDetail (-)
+2024/01/24 11:15:22 BseSgbTokenApi (+)
+2024/01/24 11:15:22 Api_call+
+2024/01/24 11:15:22 InsertLog (+)
+2024/01/24 11:15:22 InsertLog (-)
+2024/01/24 11:15:22 JsonData:  {"membercode":"6524","loginid":"6525","password":"FtCxel7N@","ibbsid":"T0G2S1K8BF"}
+2024/01/24 11:15:22 InsertLog (+)
+2024/01/24 11:15:22 InsertLog (-)
+2024/01/24 11:15:22 Error: <nil>
+2024/01/24 11:15:22 Api_call-
+2024/01/24 11:15:22 BseSgbTokenApi (-)
+2024/01/24 11:15:22 BseSgbToken (-)
+2024/01/24 11:15:22 lTokenResp {6524 6525   006 LOGINID IS NOT CONFIGURED FOR API}
+2024/01/24 11:15:22 BseGetToken (-)
+2024/01/24 11:15:22 AccessDetail (+)
+2024/01/24 11:15:22 DecodeToString(+)
+2024/01/24 11:15:22 DecodeToString(-)
+2024/01/24 11:15:22 AccessDetail (-)
+2024/01/24 11:15:22 GetBseActiveIpos (+)
+2024/01/24 11:15:22 GetBseActiveIpos (-)
+2024/01/24 11:15:22 lIpoDataArr := [{USER  EQUITY}]
+2024/01/24 11:15:22 IpoMktCatwise...(+)
+2024/01/24 11:15:22 https://uat.bseindia.in/ibbsmsgapi/iBBSWebBroadcastApi.svc/v1/biddata endpoint
+2024/01/24 11:15:22 ExchangeMktCatwise....(+)
+2024/01/24 11:15:22 pCredential {6524 6525 FtCxel7N@ T0G2S1K8BF}
+2024/01/24 11:15:22 lHeaderArr [{Content-Type application/json} {User-Agent Flattrade-golang} {Membercode 6524} {Login 6525} {Token }]
+2024/01/24 11:15:22 pIpoDetails {"symbol":"USER","flag":"B","issueType":"EQUITY"}
+2024/01/24 11:15:22 pUrl https://uat.bseindia.in/ibbsmsgapi/iBBSWebBroadcastApi.svc/v1/biddata
+2024/01/24 11:15:22 Api_call+
+2024/01/24 11:15:22 InsertLog (+)
+2024/01/24 11:15:22 InsertLog (-)
+2024/01/24 11:15:22 JsonData:  {"symbol":"USER","flag":"B","issueType":"EQUITY"}
+2024/01/24 11:15:22 InsertLog (+)
+2024/01/24 11:15:22 InsertLog (-)
+2024/01/24 11:15:22 Error: <nil>
+2024/01/24 11:15:22 Api_call-
+2024/01/24 11:15:22 lResp [{"errorcode":"97","message":"Token Invalid"}]
+2024/01/24 11:15:22 lIpoRespRec [{     97 Token Invalid}]
+2024/01/24 11:15:22 ExchangeMktCatwise....(-)
+2024/01/24 11:15:22 IpoMktCatwise...(-)
+2024/01/24 11:15:22 lMKtcatwise [{     97 Token Invalid}]
+2024/01/24 11:15:22 Today 11:15:22
+2024/01/24 11:15:22 GetAllowOrigin (+)
+2024/01/24 11:15:22 GetAllowOrigin (-)
+2024/01/24 11:15:22 Origin:  [https://novo.flattrade.in http://localhost:8080 http://192.168.2.178:8080]
+2024/01/24 11:15:22 common.ABHIAppName novodev
+2024/01/24 11:15:22 common.ABHIDomain localhost
